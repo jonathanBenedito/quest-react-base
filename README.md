@@ -29,7 +29,7 @@ Esse projeto é uma compilação de 2 desafios propostos pela quest do curso:
 
 2. Acesse o repositório
     ```
-    cd projeto-fetch-github-api
+    cd quest-react-base
     ```
 
 3. Instale o pacote do projeto
