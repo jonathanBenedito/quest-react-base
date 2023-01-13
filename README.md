@@ -2,7 +2,7 @@
   Desafios 1 & 2 <br/> ⚔️ Quest React Base ⚔️
 </h1>
 <p align="center">
-  Projeto de <a href="https://jonathanbenedito.github.io/projeto-fetch-github-api/" target="_blank">website</a> feito para a uma quest do curso <a href="https://www.linkedin.com/school/devquest-dev-em-dobro/">DevQuest - Dev em Dobro</a>, um paragrafo que transforma texto em maiúsculo e um simples botão de alerta.
+  Projeto de <a href="https://jonathanbenedito.github.io/quest-react-base/" target="_blank">website</a> feito para a uma quest do curso <a href="https://www.linkedin.com/school/devquest-dev-em-dobro/">DevQuest - Dev em Dobro</a>, um paragrafo que transforma texto em maiúsculo e um simples botão de alerta.
 </p>
 
 ![demo](public/project-overview.png)
@@ -44,7 +44,7 @@ Esse projeto é uma compilação de 2 desafios propostos pela quest do curso:
 
 ### 🔗 Links
 
-Website: <a href="https://jonathanbenedito.github.io/projeto-fetch-github-api/" target="_blank">jonathanbenedito.github.io/projeto-fetch-github-api</a>
+Website: <a href="https://jonathanbenedito.github.io/quest-react-base/" target="_blank">jonathanbenedito.github.io/quest-react-base</a>
 
 DevQuest - Dev em Dobro (Linkedin): <a href="https://www.linkedin.com/school/devquest-dev-em-dobro/" target="_blank">linkedin.com/school/devquest-dev-em-dobro/</a>
 
