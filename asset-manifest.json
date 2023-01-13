@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quest-react-base/static/css/main.073c9b0a.css",
+    "main.js": "/quest-react-base/static/js/main.ae3ff4d1.js",
+    "index.html": "/quest-react-base/index.html",
+    "main.073c9b0a.css.map": "/quest-react-base/static/css/main.073c9b0a.css.map",
+    "main.ae3ff4d1.js.map": "/quest-react-base/static/js/main.ae3ff4d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ae3ff4d1.js"
+  ]
+}
