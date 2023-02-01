@@ -1,11 +1,11 @@
 import './App.css';
-import Button from './components/button/button';
-import Paragraph from './components/paragraph/paragraph';
+import { Button } from './components/button';
+import { ColoredText } from './components/colored-text';
 
 function App() {
   return (
     <>
-      <Paragraph backgroundColor='antiqueWhite' text='olá galera do dev em dobro!'/>
+      <ColoredText backgroundColor='antiqueWhite'>olá galera do dev em dobro!</ColoredText>
       <Button label="Baixar CV" />
     </>
   );
