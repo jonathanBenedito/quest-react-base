@@ -18,7 +18,7 @@ Esse projeto é uma compilação de 2 desafios propostos pela quest do curso:
 
 - 1º Desafio: Criar um componente que colore a tag paragrafo `<p>` e transforme as letras do seu conteúdo em maiúsculas. As cores e o texto deverão ser passadas pelas `props`.
 
-- 2º Desafio: Criar um componente `<button>` com um evento de clique que mostre um alerta com a seguinte mensagem: "A label desse botão é " + o valor informado pelaa prop label do botão que foi clicado.
+- 2º Desafio: Criar um componente `<button>` com um evento de clique que mostre um alerta com a seguinte mensagem: "A label desse botão é " + o valor informado pela `prop` label do botão que foi clicado.
 
 ## 🛠 Guia de instalação
 
